@@ -240,7 +240,7 @@ function create_config( )
     "filer",
     "leave_ban"
     },
-    sudo_users = {139534999},--Sudo users
+    sudo_users = {103365027,24878907},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
